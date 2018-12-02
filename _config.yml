@@ -24,10 +24,8 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-# Third-party services
-# just leave someone empty to disable it
-# google_analytics: 
-disqus_shortname: junhansui
+# Disqus settings（https://disqus.com/）
+disqus_username: junhansui
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
