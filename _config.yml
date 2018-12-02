@@ -17,7 +17,6 @@ url: "http://jory18.github.io" # the base hostname & protocol for your site
 
 # SNS settings
 RSS: false
-zhihu_username:   
 github_username:  jory18
 
 # Build settings
@@ -28,7 +27,7 @@ kramdown:
 # Third-party services
 # just leave someone empty to disable it
 # google_analytics: 
-disqus_shortname:
+disqus_shortname: junhansui
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
