@@ -24,8 +24,6 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-# Disqus settings（https://disqus.com/）
-disqus_shortname: junhansui
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
